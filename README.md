@@ -1,3 +1,6 @@
+I used Biopython to create the map. I used some of the code in the documentation from here: https://biopython-tutorial.readthedocs.io/en/latest/notebooks/17%20-%20Graphics%20including%20GenomeDiagram.html 
+Biopython: https://biopython.org/
+
 # ACM Research Coding Challenge (Spring 2021)
 
 ## No Collaboration Policy
@@ -22,3 +25,8 @@ Genome analysis is the identification of genomic features such as gene expressio
 **You may use any programming language you feel most comfortable. We recommend Python because it is the easiest to implement. You're allowed to use any library you want to implement this**, just document which ones you used in this README file. Try to complete this as soon as possible.
 
 Regardless if you can or cannot answer the question, provide a short explanation of how you got your solution or how you think it can be solved in your README.md file. However, we highly recommend giving the challenge a try, you just might learn something new!
+
+I honestly feel I have answered the question and have provided a simple map, although throughout this process of creating this program I've learned that I don't quite understand what I am looking at when I see the picture. (With time and some help I'm positive I could understand it!)
+If I had more of an understanding of what is important to have visualized, my program could allow for more of a complicated graph. The library Biopython is a very powerful tool that allows for all kinds
+of data manipulation specifically made for Biology application. Because I feel that I have satisfied the requirements in the Readme and As stated "I should try and complete this ASAP" and "We're not looking for any complex maps"
+I hope my program satisfies your needs!
